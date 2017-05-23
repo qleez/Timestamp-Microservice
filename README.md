@@ -1,15 +1,12 @@
 # Author
-![@Rafase282](https://avatars0.githubusercontent.com/Rafase282?&s=128)
 
-Created by Rafase282
+Created by Qian Shao
 
-[Github](https://github.com/Rafase282) | [FreeCodeCamp](http://www.freecodecamp.com/rafase282) | [CodePen](http://codepen.io/Rafase282/) | [LinkedIn](https://www.linkedin.com/in/rafase282) | [Blog/Site](https://rafase282.wordpress.com/) | [E-Mail](mailto:rafase282@gmail.com)
-
-# FreeCodeCamp API Basejump: Timestamp Microservice
-### User stories:
-1. I can pass a string as a parameter, and it will check to see whether that string contains either a unix timestamp or a natural language date (example: January 1, 2016)
-2. If it does, it returns both the Unix timestamp and the natural language form of that date.
-3. If it does not contain a date or Unix timestamp, it returns null for those properties.
+# FreeCodeCamp API Projects: Timestamp Microservice
+### 用户故事：
+1. 把一个字符串作为参数，判断该字符串是不是一个 Unix 时间，或者一个公历日期（例如：January 1, 2016）。
+2. 如果是，那么它同时返回 Unix 时间戳和公历日期。
+3. 如果不是，那么它返回 null 。
 
 ## Example usage:
 
